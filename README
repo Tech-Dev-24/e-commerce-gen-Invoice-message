@@ -1,0 +1,5 @@
+Educational PHP/MySQL e-commerce demo — user/admin auth, product catalog, and simple ordering. Mini Project
+
+This repository hosts an educational e-commerce demo built using PHP, MySQL (XAMPP), HTML, and CSS. It features both user and admin authentication, a product catalog with images, and a one-click order system that instantly generates an invoice and updates the shipping tracking status. The admin panel allows viewing users, managing products, checking orders, and tracking shipments.
+
+The project is designed purely for learning and practice — helping students understand how backend logic, database relations, and basic e-commerce workflows function in PHP and MySQL.
